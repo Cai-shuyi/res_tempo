@@ -12,6 +12,10 @@
 | `docs/change-management.md` | 分支、commit、PR、合併與環境注意事項 | 人、Claude |
 | `docs/data-and-config.md` | 資料與設定的命名、單位、缺項、版本紀錄 | 人、Claude |
 | `docs/spec/extraction.md` | Poly resistor 萃取規格：load、features、model、qa 的輸入、計算與輸出 | 人、Claude |
+| `CLAUDE.md` | 給 Claude 的工作規則與檔案地圖 | Claude |
+| `docs/project-layout.md` | 新專案的標準目錄結構 | 人、Claude |
+| `config/README.md` | 設定檔的用途與寫法規範 | 人、Claude |
+| `data/README.md` | 資料分層與格式規範 | 人、Claude |
 | `templates/` | 各類文件的空白範本 | 人、Claude |
 
 ## 使用方式
