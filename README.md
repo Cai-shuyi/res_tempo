@@ -11,6 +11,7 @@
 | `docs/documentation.md` | CLAUDE.md、README、規格、config、data、skill 各自怎麼寫 | 人、Claude |
 | `docs/change-management.md` | 分支、commit、PR、合併與環境注意事項 | 人、Claude |
 | `docs/data-and-config.md` | 資料與設定的命名、單位、缺項、版本紀錄 | 人、Claude |
+| `docs/spec/extraction.md` | Poly resistor 萃取規格：load、features、model、qa 的輸入、計算與輸出 | 人、Claude |
 | `templates/` | 各類文件的空白範本 | 人、Claude |
 
 ## 使用方式
